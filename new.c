@@ -6,3 +6,4 @@ intc;
 return(a+b+c)
 }
 printf("this is git")
+  printf("this is new")
